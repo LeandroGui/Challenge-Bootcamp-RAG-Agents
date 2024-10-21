@@ -8,8 +8,8 @@ In this Bootcamp, you will build the projects in the above given use cases.
 
 ## Skills:
 
-Python, Machine Learning, Transformers (BERT, GPT), Prompt Engineering, LangChain, GenAI Stack, Llama-Index, LLMs, Huggingface, RAG.
+Python, Deep Learning, LLMs, LangChain, LlamaIndex, CrewAI, BeyondLLM, OpenAGI, Prompt Engineering, RAG, Agents.
 
 ## Certificate:
 
-https://www.credential.net/e70e3bf8-683c-42d0-b399-f693b3a10012
+https://aiplanet.com/bootcamp/certificate/verify/3f8a61a4-e95c-43aa-a566-69afec27609f
