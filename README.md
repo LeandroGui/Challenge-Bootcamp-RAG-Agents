@@ -10,7 +10,7 @@ The bootcamp will include real-time projects and live sessions designed to upski
 
 Python, Deep Learning, LLMs, LangChain, LlamaIndex, CrewAI, BeyondLLM, OpenAGI, Prompt Engineering, RAG, Agents.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)(https://colab.research.google.com/drive/1AdrQJ_AOlDVSw_6ve4Fr2DSkXxSYc8j-?usp=sharing)]
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1AdrQJ_AOlDVSw_6ve4Fr2DSkXxSYc8j-?usp=sharing)
 
 ## Certificate:
 
